@@ -1,0 +1,1 @@
+Welcome to my **"Learning Docker with FastAPI"** project! 🎉 This simple app is my hands-on attempt at learning Docker and FastAPI, inspired by an awesome tutorial by [Patrick Loeber](https://www.youtube.com/watch?v=iqrS7Q174Ac&ab_channel=PatrickLoeber). 🧑‍💻
